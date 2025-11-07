@@ -6,6 +6,12 @@ The objective is to convert raw transactional data into meaningful business insi
 
 ---
 
+### 📈 Dashboard
+
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/4835b2ba-439e-4030-8231-f9b7c9672c83" />
+
+---
+
 ## 🔍 1. Summary of the Project
 This project involves designing a relational database in **MySQL**, performing data cleaning and transformation, creating reusable SQL Views for analysis, and visualizing insights using **Power BI**.
 
